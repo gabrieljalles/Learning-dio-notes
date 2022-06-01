@@ -1,4 +1,4 @@
-# dio-leaning-kotlin
+# dio-leaning
 
 ### Objetivo do repositório:
   Guardar informações, exemplos e conhecimento sobre o aprendizado na DIO.
